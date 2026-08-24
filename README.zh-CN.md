@@ -1,4 +1,4 @@
-# GMPay Edge
+# GMPay Edge1
 
 **为边缘网络而生的多链支付网关**
 
